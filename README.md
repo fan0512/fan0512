@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+#I'm Leo Korhonen
 
 _Get started using GitHub in less than an hour._
 
