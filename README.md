@@ -10,11 +10,11 @@
 ## I'm Leo Korhonen
 
 😄 I’m @MernDev0603<br/>
-📫 How to reach me
-💬 Email: merndev0603@gmail.com,
-💬 Telegram: @MY017900,
-💬 Skype: live:.cid.d40dd2d72f585867
-💬 Discord: MY01#7900
+📫 How to reach me<br/>
+💬 Email: merndev0603@gmail.com<br/>
+💬 Telegram: @MY017900<br/>
+💬 Skype: live:.cid.d40dd2d72f585867<br/>
+💬 Discord: MY01#7900<br/>
 
 </header>
 
