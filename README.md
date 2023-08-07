@@ -10,6 +10,12 @@
 ## I'm Leo Korhonen
 
 _Get started using GitHub in less than an hour._
+😄 I’m @MernDev0603
+📫 How to reach me
+💬 Email: merndev0603@gmail.com,
+💬 Telegram: @MY017900,
+💬 Skype: live:.cid.d40dd2d72f585867
+💬 Discord: MY01#7900
 
 </header>
 
