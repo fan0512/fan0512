@@ -11,8 +11,8 @@
 
 💬 Email: cdeveloper1129@gmail.com<br/>
 💬 Telegram: @eugene8888<br/>
-💬 Discord:fan051288 <br/>
-💬 Whatsapp:+79054682799
+💬 Discord: fan051288 <br/>
+💬 Whatsapp: +79054682799
 
 </header>
 
