@@ -13,6 +13,7 @@
 💬 Telegram: @eugene8888<br/>
 💬 Discord: fan051288 <br/>
 💬 Whatsapp: +79054682799
+💬 Skype: live:.cid.94777a6093d3b55
 
 </header>
 
