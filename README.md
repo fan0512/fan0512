@@ -9,7 +9,7 @@
 
 ## Hi! I'm Fan0512
 [![Gitter](https://badges.gitter.im/github-activity-generator/community.svg)](https://gitter.im/github-activity-generator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![build](https://github.com/Shpota/github-activity-generator/workflows/build/badge.svg)](https://github.com/Shpota/github-activity-generator/actions?query=workflow%3Abuild)
-[![Public Sponsor]]
+https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 💬 Email: cdeveloper1129@gmail.com<br/>
 💬 Telegram: @eugene8888<br/>
 💬 Discord: fan051288 <br/>
