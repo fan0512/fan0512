@@ -33,7 +33,10 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elitesuper&theme=github" />  
 </div>
 
-
+## Achievements
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
+</p>
 <footer>
 
 <!--
