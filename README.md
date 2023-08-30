@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi!👋 Welcome to My GitHub!!! </h1>
 <div align="eenter">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Full+Stack+Developer+with+over+6+years+experience.;MERN+Stack,+Vue/Laravel+Stack;TALL+Stack,+Next/Django+Stack;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=800&lines=Full+Stack+Developer+with+over+6+years+experience.;MERN+Stack,+Vue/Laravel+Stack,+TALL+Stack,+Next/Django+Stack;" alt="Typing SVG" /></a>
 </div>
 💬 Email: cdeveloper1129@gmail.com<br/>
 💬 Telegram: @eugene8888<br/>
