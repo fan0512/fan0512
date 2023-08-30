@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=Full+Stack+Developer;With+over+6+years+experience.;MERN+Stack,+Vue/Laravel+Stack;TALL+Stack,+Next/Django+Stack;" alt="Typing SVG" /></a>
 </div>
 
-## Hi!👋 Welcome to My GitHub!!!
+<h1 align="center"> Hi!👋 Welcome to My GitHub!!! </h1>
 💬 Email: cdeveloper1129@gmail.com<br/>
 💬 Telegram: @eugene8888<br/>
 💬 Discord: fan051288 <br/>
