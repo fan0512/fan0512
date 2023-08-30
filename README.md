@@ -25,7 +25,6 @@
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-  <img src="https://github-profile-trophy.vercel.app?username=c-hillyard&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 ## Overview
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
@@ -36,7 +35,7 @@
 
 ## Achievements
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
+  <img src="https://github-profile-trophy.vercel.app?username=c-hillyard&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
 <footer>
 
