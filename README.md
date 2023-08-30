@@ -1,7 +1,7 @@
 <header>
 
 <div align="eenter">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=Full+Stack+Developer+over+6+years+exp;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=Full+Stack+Developer+6+years+exp;" alt="Typing SVG" /></a>
 </div>
 
 ## Hi!👋 I'm Fan0512
