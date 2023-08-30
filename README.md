@@ -1,9 +1,9 @@
 <header>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer+6+years+of+experience." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&line=I+am+a+Full+Stack+Web+Developer+6+years+of+experience." alt="Typing SVG" />
 
-## Hi! I'm Fan0512
+## Hi!👋 I'm Fan0512
 [![Gitter](https://badges.gitter.im/github-activity-generator/community.svg)](https://gitter.im/github-activity-generator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 [![build](https://github.com/Shpota/github-activity-generator/workflows/build/badge.svg)](https://github.com/Shpota/github-activity-generator/actions?query=workflow%3Abuild)
 💬 Email: cdeveloper1129@gmail.com<br/>
