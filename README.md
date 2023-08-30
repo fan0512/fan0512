@@ -1,8 +1,7 @@
 <header>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer+6+years+of+experience." alt="Typing SVG" />
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+8+years+of+Experience+in+Web." alt="Typing SVG" /></a>
 ## Hi!👋 I'm Fan0512
 [![Gitter](https://badges.gitter.im/github-activity-generator/community.svg)](https://gitter.im/github-activity-generator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 [![build](https://github.com/Shpota/github-activity-generator/workflows/build/badge.svg)](https://github.com/Shpota/github-activity-generator/actions?query=workflow%3Abuild)
