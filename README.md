@@ -4,7 +4,7 @@
 <div align="eenter">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=800&lines=Full+Stack+Developer+with+over+6+years+experience.;MERN+Stack,+Next/Django,+Vue/Laravel,+Ruby+on+Rails;" alt="Typing SVG" /></a>
 </div>
-💬 Email: cdeveloper1129@gmail.com<br/>
+💬 Email: axolgens@gmail.com<br/>
 💬 Telegram: @eugene8888<br/>
 💬 Discord: fan051288 <br/>
 💬 Skype: live:.cid.94777a6093d3b55
